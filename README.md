@@ -1,13 +1,204 @@
-<h1 align="center">Hi 👋, I'm Mazen Medhat</h1>
-<h3 align="center">🎓 IT Student at 6 October Technological University (Class of 2028) 💻 Passionate about: - Network Engineering - System Administration - Cybersecurity ## 🚀 Currently Learning - Windows Server & Active Directory - Cisco Networking (CCNA) - Linux Administration - PowerShell Automation - Web Security & Bug Hunting</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=egdarko&label=Profile%20views&color=0e75b6&style=flat" alt="egdarko" /> </p>
+# Hi 👋, I'm Mazen Medhat
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mazen-medhat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mazen-medhat/" height="30" width="40" /></a>
-<a href="https://medium.com/@egdarko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@egdarko" height="30" width="40" /></a>
+### 💻 IT Student | Network Engineer | System Administrator | Cybersecurity Enthusiast
+
+<img src="https://komarev.com/ghpvc/?username=egdarko&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 IT Student at **6 October Technological University** (Class of 2028)
+
+🌐 Passionate about:
+
+- Network Engineering
+- System Administration
+- Cybersecurity
+
+🖥️ I enjoy building **Home Labs** to practice enterprise technologies such as Active Directory, Windows Server, DNS, DHCP, and Linux administration.
+
+🌱 Currently expanding my knowledge in networking, Windows infrastructure, PowerShell automation, and cybersecurity.
+
+---
+
+## 🚀 Currently Learning
+
+- Windows Server 2025
+- Active Directory
+- Group Policy
+- DNS & DHCP
+- File Server
+- Folder Redirection
+- Cisco CCNA
+- Linux Administration
+- PowerShell
+- Web Security
+- Active Directory Security
+- Network Troubleshooting
+
+---
+
+## 🛠️ Tech Stack
+
+### Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=windows,linux,bash,powershell" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Networking
+
+- Cisco CCNA
+- Routing & Switching
+- VLANs
+- STP
+- OSPF
+- NAT
+- ACLs
+- IPv4 / IPv6
+- DNS
+- DHCP
+
+### System Administration
+
+- Windows Server
+- Active Directory
+- Group Policy
+- DNS Server
+- DHCP Server
+- File Server
+- Folder Redirection
+- NTFS Permissions
+
+### Programming & Scripting
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,php,html,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+## 💼 Featured Projects
+
+### 🖥️ Active Directory Home Lab
+
+- Domain Controller Deployment
+- Organizational Units
+- Users & Groups
+- Group Policy
+- Roaming Profiles
+- Folder Redirection
+
+### 🌐 Windows Server Lab
+
+- DNS
+- DHCP
+- File Server
+- Shared Folders
+- NTFS Permissions
+
+### 📡 Networking Labs
+
+- VLAN Configuration
+- Inter-VLAN Routing
+- Static Routing
+- OSPF
+- ACL Configuration
+- NAT
+
+### 🔐 Cybersecurity Labs
+
+- TryHackMe
+- Hack The Box
+- Web Security Practice
+- Network Security Labs
+
+---
+
+## 🏆 Certifications
+
+- Cisco CCNA
+- Cisco CyberOps
+- MCSA – Windows Server & Active Directory
+- MTA – Operating System Fundamentals
+- Cisco Network Essentials
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Build enterprise-level Active Directory labs
+- 🖥️ Master Windows Server Administration
+- 🌐 Improve Networking skills
+- 🐧 Master Linux Administration
+- ⚡ Learn advanced PowerShell scripting
+- 🔐 Improve Web Security skills
+- 📂 Share technical projects on GitHub
+
+---
+
+## 🌍 Languages
+
+- 🇪🇬 Arabic (Native)
+- 🇺🇸 English (Professional Working Proficiency)
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mazen-medhat/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://medium.com/@egdarko" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="48" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=egdarko&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egdarko&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=egdarko&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=egdarko&theme=tokyo-night"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 Favorite Quote
+
+*"The best way to learn IT is by building real-world labs."*
+
+⭐ Thanks for visiting my profile!
+
+</div>
