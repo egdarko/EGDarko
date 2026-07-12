@@ -101,11 +101,17 @@
 
 ## 🏆 Certifications
 
-- Cisco CCNA
-- Cisco CyberOps
-- MCSA – Windows Server & Active Directory
-- MTA – Operating System Fundamentals
-- Cisco Network Essentials
+- Cisco Certified Network Associate (CCNA): Introduction to Networks
+- Cisco Certified Network Associate (CCNA): Switching, Routing, and Wireless Essentials
+- Cisco Certified Network Associate (CCNA): Enterprise Networking, Security, and Automation
+- Cisco Certified CyberOps Associate
+- Optical Fiber Network Installation, Maintenance & Troubleshooting – NSP Egypt
+- Computer Network Fundamentals – Information Technology Institute (ITI)
+- Technical Support Fundamentals – Google
+- System Administration and IT Infrastructure Services – Google
+- Windows Operating System Fundamentals – Microsoft
+- Certified Web Red Team Analyst (Web-RTA) – CyberWarFare Labs
+- Red Teaming & Ethical Hacking Diploma – Red Nexus Academy
 
 ---
 
