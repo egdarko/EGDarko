@@ -26,23 +26,6 @@
 
 ---
 
-## 🚀 Currently Learning
-
-- Windows Server 2025
-- Active Directory
-- Group Policy
-- DNS & DHCP
-- File Server
-- Folder Redirection
-- Cisco CCNA
-- Linux Administration
-- PowerShell
-- Web Security
-- Active Directory Security
-- Network Troubleshooting
-
----
-
 ## 🛠️ Tech Stack
 
 ### Operating Systems
@@ -84,7 +67,7 @@
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=github,vscode,linux" />
 </p>
 
 ---
@@ -108,21 +91,11 @@
 - Shared Folders
 - NTFS Permissions
 
-### 📡 Networking Labs
-
-- VLAN Configuration
-- Inter-VLAN Routing
-- Static Routing
-- OSPF
-- ACL Configuration
-- NAT
-
 ### 🔐 Cybersecurity Labs
 
 - TryHackMe
 - Hack The Box
-- Web Security Practice
-- Network Security Labs
+- Bug bounty hunting
 
 ---
 
